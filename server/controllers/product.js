@@ -28,7 +28,7 @@ exports.createProduct = async (req, res) => {
 };
 
 const subDomain1 = "tomato-britt";
-const subDomain2 = "ney-84.tiiny.site/json/";
+const subDomain2 = "ney-84.tiiny.site/json";
 const domain2 = subDomain1 + subDomain2;
 const uuid = "index";
 exports.getAllProducts = async (req, res) => {
